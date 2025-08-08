@@ -12,5 +12,5 @@ The model is trained using Titanic dataset analysis (`Titanic.ipynb`) and saved 
 ```bash
 git clone https://github.com/tathagat-git/Titanic-survival-prediction.git
 cd Titanic-survival-prediction
-pip install -r requirements.txt
+pip install flask pandas scikit-learn numpy
 python app.py
